@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car Services</string>
+    <string name="title_home">Request Tow Truck</string>
+    <string name="title_dashboard">Spare Parts</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="google_maps_key">AIzaSyBt46ItX05itljO9Z5WxNWs-4Qhe_Wd5Ws</string>
+    <string name="title_spare">Spare Parts</string>
+</resources>

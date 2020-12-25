@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366554673002",
+    "project_id": "car-services-d3490",
+    "storage_bucket": "car-services-d3490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366554673002:android:c715614c8375c49e293f13",
+        "android_client_info": {
+          "package_name": "com.jaad.carservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366554673002-003nv1vji5879vv7f9v36v5oivtmgeds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaad.carservices",
+            "certificate_hash": "3dffc70fe83f1a06da2da9a5a144d34890b057ed"
+          }
+        },
+        {
+          "client_id": "366554673002-77rrvt6rd7kmqtvftoho9uptfrt6a0t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRVkmSPN--M0HhYz0vYeo6-Drd2ATc35k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366554673002-77rrvt6rd7kmqtvftoho9uptfrt6a0t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
